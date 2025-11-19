@@ -19,5 +19,3 @@ Please follow these steps to submit your assignments:
    "Milestone 1 – <Your Name>"
 
 I will review your submission through the Pull Request.
-
-Let me know if you need help!
